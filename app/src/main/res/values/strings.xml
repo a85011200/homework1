@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">class</string>
+    <string name="textview">TextView</string>
+    <string name="hello">Hello World, class</string>
+    <string name="str_1">"I am a string given in res/values/strings.xml"</string>
+
+
+</resources>
